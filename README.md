@@ -3,4 +3,4 @@
 <h1 style="color:blue;">This is a heading</h1>
 This is my first repository.
 <BR>
-<P>Auther: Nikhil Borkar</P>
+<P>Auther: Swapnil Borkar</P>
